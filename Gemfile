@@ -35,3 +35,5 @@ group :test do
   gem 'rspec-json_expectations'
   gem 'shoulda-matchers', '~> 4.0'
 end
+
+gem "ruby-lsp", "~> 0.3.2", :group => :development
